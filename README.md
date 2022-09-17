@@ -1,12 +1,13 @@
 
 <h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, soy Jhon Guacho</h1>
- <p align="center"><br/>
+ <p align="left">
+ <br/>
    <a href="https://www.linkedin.com/in/jhon-alex-5b6a23113/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
-<h3 align="left">Soy un desarrollador de aplicaciones y sistemas web y móviles.</h3>
+<h3 align="left">Soy un desarrollador de aplicaciones de administración web y móviles.</h3>
 
 <h4>Lenguajes que manejo y herramientas</h4>
 
