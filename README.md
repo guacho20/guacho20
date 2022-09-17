@@ -18,6 +18,7 @@
 <img width="30px" height="30px" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" />
 <img width="30px" height="30px" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/typescript/typescript-original.svg" />
 <img width="30px" height="30px" alt="Angular" src="https://v6.angular.live/assets/images/logos/angular/angular.svg" />
+ <img width="30px" height="30px" alt="Ionic" src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" />
 <img width="30px" height="30px" alt="PWA" src="https://v6.angular.live/assets/images/logos/concept-icons/pwa.png">
 <img width="30px" height="30px" alt="Jasmine" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg"  />
 <img width="30px" height="30px" alt="Karma" src="https://v6.angular.live/assets/images/logos/concept-icons/karma.png">
@@ -38,6 +39,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img width="30px" height="30px"  alt="MSSQLServer" src="https://img.icons8.com/color/452/microsoft-sql-server.png" />
 <img width="30px" height="30px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" height="30px" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img width="30px" height="30px" alt="Glassfish" src="https://www.vectorlogo.zone/logos/javaee_glassfish/javaee_glassfish-icon.svg" />
+<img width="30px" height="30px" alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img width="30px" height="30px" alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" />
+<img width="30px" height="30px" alt="Laravel" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
 </div>
 
 <h2>Contactame:</h2>
