@@ -39,8 +39,8 @@
 <img width="30px" height="30px" alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img width="30px" height="30px" alt="PHP" src="https://www.vectorlogo.zone/logos/php/php-vertical.svg" />
 <img width="30px" height="30px" alt="Laravel" src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" />
-<img width="70px" height="30px" alt="Jasperreport" src="http://inproject-karly.weebly.com/uploads/4/8/3/4/48348689/8659008.png" />
-<img width="30px" height="30px" alt="Laravel" src="https://kuyhaa.cc/wp-content/uploads/2022/03/SAP-PowerDesigner-Crack.png" />
+<img width="70px" height="40px" alt="Jasperreport" src="http://inproject-karly.weebly.com/uploads/4/8/3/4/48348689/8659008.png" />
+<img width="30px" height="30px" alt="PowerDesigner" src="https://kuyhaa.cc/wp-content/uploads/2022/03/SAP-PowerDesigner-Crack.png" />
 </div>
 
 <h2>Contactame:</h2>
