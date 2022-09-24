@@ -9,7 +9,7 @@
 
 <h3 align="left">Soy un desarrollador de aplicaciones de administración web y móviles.</h3>
 
-<h4>Lenguajes que manejo y herramientas</h4>
+<h4>Lenguajes y herramientas que manejo</h4>
 
 <!-- Iconos proporcionados por https://devicon.dev/ -->
 
