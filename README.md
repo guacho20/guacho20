@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="left">Soy un desarrollador de aplicaciones de administración web y móviles.</h3>
+<h3 align="left">Soy un desarrollador de aplicaciones web y móviles.</h3>
 
 <h4>Lenguajes y herramientas que manejo</h4>
 
