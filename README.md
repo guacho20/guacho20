@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, soy Jhon Guacho - Ingeniero de softwar</h1>
+<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, soy Jhon Guacho - Ingeniero de software</h1>
  <p align="left">
  <br/>
    <a href="https://www.linkedin.com/in/jhon-alex-5b6a23113/">
