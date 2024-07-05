@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, soy Jhon Guacho</h1>
+<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, soy Jhon Guacho - Ingeniero de softwar</h1>
  <p align="left">
  <br/>
    <a href="https://www.linkedin.com/in/jhon-alex-5b6a23113/">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h3 align="left">Soy un desarrollador de aplicaciones web y móviles.</h3>
+<h3 align="left">Desarrollo de software, durante 3 años en instituciones publicas y privadas usando diferentes frameworks y herramientas.</h3>
 
 <h4>Lenguajes y herramientas que manejo</h4>
 
